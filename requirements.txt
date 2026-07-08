@@ -1,0 +1,5 @@
+python-telegram-bot>=20.8
+yfinance>=0.2.40
+pandas>=2.2.0
+numpy>=1.26.0
+tornado>=6.4
